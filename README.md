@@ -1,4 +1,7 @@
 # Iswintercoming
+
+Is winter coming?
+
 Android app that tells if winter is coming
 
 This is my first Android app.
